@@ -1,4 +1,4 @@
-# [<img width="240" src="https://github.com/user-attachments/assets/9dd2b80d-be09-4c28-b258-74c883103927">](https://github.com/derek-inc-git/virtual-audio-cable/releases/latest)
+# [<img width="360" src="https://github.com/user-attachments/assets/c3c4b010-2c0c-4eae-a3f7-0795df305438">](https://github.com/derek-inc-git/virtual-audio-cable/releases/latest)
 
 > [!IMPORTANT]
 > ### Установка:

